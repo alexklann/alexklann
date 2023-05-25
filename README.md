@@ -1,7 +1,7 @@
 ### Hi there 👋...
 ...I'm Libroru!
 
-I am a develpoepr trying out new things everyday! ✨<br>
+I am a developer trying out new things everyday! ✨<br>
 My current project is [Studiction](https://github.com/Majost-Libroru/Studiction) <a href="https://github.com/Majost-Libroru/Studiction"><img src="https://camo.githubusercontent.com/d21a533deb73a8884a1be2880fcc53831932498e2ceec547818a66726113d12b/68747470733a2f2f692e696d6775722e636f6d2f594b74647a444f2e706e67" alt="Studiction Logo" style="height: 15px;"/></a>, a new way to track your studying progress! 🧐
 
 I've been working on all kinds of stuff! This includes:

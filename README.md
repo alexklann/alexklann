@@ -2,7 +2,6 @@
 ...I'm Libroru!
 
 I am a developer, trying out new things everyday! ✨<br>
-Recently, I've been working on [Studiction](https://github.com/Majost-Libroru/Studiction) <a href="https://github.com/Majost-Libroru/Studiction"><img src="https://camo.githubusercontent.com/d21a533deb73a8884a1be2880fcc53831932498e2ceec547818a66726113d12b/68747470733a2f2f692e696d6775722e636f6d2f594b74647a444f2e706e67" alt="Studiction Logo" style="height: 15px;"/></a>, a new way to track your studying progress! 🧐 The project is currently halted indefinitely. 
 
 I've been working on all kinds of stuff! This includes:
 
@@ -22,4 +21,4 @@ My Tech Stack:<br>
   <img src="https://imgs.search.brave.com/DHLMm8bNg0UfKjotzw1r-Etk82rXCp7QIUMd8WDoq5s/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly8xLmJw/LmJsb2dzcG90LmNv/bS8tcUtZeXNseGFz/eEEvV0ZqejhrSjRx/dUkvQUFBQUFBQUFy/OEEvR2theTNpVzVs/NmNic3czZDFYWm9U/TE5yYnZXcGlmLXFR/Q0xjQi9zMTYwMC9j/c2hhcnAucG5n" alt="C-Sharp Logo" style="height: 50px; width:50px;"/>
 </div>
 
-If you have any questions or just want to have a quick talk, then hit me up over at Discord: `Libroru#1185`!
+If you have any questions or just want to have a quick talk, then hit me up over at Discord: `libroru`!
